@@ -3,7 +3,7 @@
 
 ## Welcome to my GitHub profile! 🚀
 
-I'm a versatile developer with expertise in **C, C++, Java, and Python**, specializing in **Django web development**, **Machine Learning**, and **bug detection**. I build robust applications, develop intelligent ML solutions, and have a keen eye for finding and fixing bugs. I'm committed to writing clean, maintainable, and production-ready code.
+I'm a versatile developer with expertise in **C, C++, Java,Android, and Python**, specializing in **Django web development**, **Machine Learning**, and **bug detection**,**GuUI applications**. I build robust applications, develop intelligent ML solutions, and have a keen eye for finding and fixing bugs. I'm committed to writing clean, maintainable, and production-ready code.
 
 ---
 
